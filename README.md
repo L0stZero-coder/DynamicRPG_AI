@@ -90,7 +90,7 @@ MIT License — feel free to use, modify, and distribute.
 
 ## 👨‍💻 Author
 
-**Naveen Aurther** — Computer Science, University of C.S.  
+**L0stZero-code** — Computer Science.  
 Project: *BoardMasterAI | Narrative Module: DynamicRPG_AI*
 
 ---
