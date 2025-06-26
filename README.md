@@ -40,7 +40,7 @@ DynamicRPG_AI/
 ### 🚀 Steps to Build & Run
 
 ```bash
-git clone https://github.com/yourname/DynamicRPG_AI.git
+git clone https://github.com/L0stZero-coder/DynamicRPG_AI.git
 cd DynamicRPG_AI
 mkdir build && cd build
 cmake ..
